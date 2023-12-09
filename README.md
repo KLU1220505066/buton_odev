@@ -7,7 +7,7 @@ Bu proje [GraphQLButton](URL) sınıfını içerir.
 - [Proje Hakkında](#proje-hakkında)
 - [Nasıl Kullanılır](#nasıl-kullanılır)
 - [Örnek Kullanım](#örnek-kullanım)
-- [Test Etme](#test-etme)
+
 
 ## Proje Hakkında
 
